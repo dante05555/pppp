@@ -3,9 +3,20 @@ body{
     font-family: sans-serif;
 }
 
+.card{
+    height: 400px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.card__header-img{
+    border-radius: 50%;
+    height: 100px;
+    left: 150px;
+    top: 150px;
+}
 
-.imagen{
-    background: ;
-    height: 10px;
-    width: 100px;
+.card_stats{
+    display: inline-block;   
 }
